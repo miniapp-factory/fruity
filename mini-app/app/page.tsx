@@ -1,4 +1,3 @@
-"use client";
 
 import { generateMetadata } from "@/lib/farcaster-embed";
 import SlotMachine from "@/components/slot-machine";
